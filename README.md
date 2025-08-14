@@ -49,20 +49,16 @@ java -jar target/todo-list-java.jar
 ```
 ## 📸 Screenshots
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-
-<div>
-<img width="100%" alt="Tela Principal - Lista de Tarefas" src="https://github.com/user-attachments/assets/6b21e613-e623-4fb2-8856-9c23e261018c">
-<p align="center"><em>Tela principal com lista de tarefas</em></p>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0;">
+  <div style="flex: 1; min-width: 300px; max-width: 400px;">
+    <img src="https://github.com/user-attachments/assets/6b21e613-e623-4fb2-8856-9c23e261018c" alt="Tela Principal" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <p style="text-align: center; margin-top: 8px; font-size: 0.9em;">Tela principal do aplicativo</p>
+  </div>
+  <div style="flex: 1; min-width: 300px; max-width: 400px;">
+    <img src="https://github.com/user-attachments/assets/d8c917e0-c957-4601-b978-a8c3d8112b98" alt="Adicionar Tarefa" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <p style="text-align: center; margin-top: 8px; font-size: 0.9em;">Adicionando nova tarefa</p>
+  </div>
 </div>
-
-<div>
-<img width="100%" alt="Tela de Adição de Tarefa" src="https://github.com/user-attachments/assets/d8c917e0-c957-4601-b978-a8c3d8112b98">
-<p align="center"><em>Adicionando nova tarefa</em></p>
-</div>
-
-</div>
-
 
 ## 📌 Próximas Melhorias
 
