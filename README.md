@@ -1,6 +1,6 @@
 # 📝 Lista_de_Afazeres
 
-![Java](https://img.shields.io/badge/Java-17%2B-blue)
+![Java](https://img.shields.io/badge/Java-23%2B-blue)
 ![Swing](https://img.shields.io/badge/GUI-Swing-orange)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-brightgreen)
 
