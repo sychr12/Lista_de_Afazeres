@@ -48,7 +48,11 @@ mvn clean install
 java -jar target/todo-list-java.jar
 ```
 📸 Screenshots
-<img width="381" height="485" alt="image" src="https://github.com/user-attachments/assets/6b21e613-e623-4fb2-8856-9c23e261018c" />
+<img width="381" height="485" margin=10px alt="image" src="https://github.com/user-attachments/assets/6b21e613-e623-4fb2-8856-9c23e261018c" />
+
+<img width="379" height="486" margin=10px alt="image" src="https://github.com/user-attachments/assets/d8c917e0-c957-4601-b978-a8c3d8112b98" />
+
+
 Interface principal do aplicativo
 
 
