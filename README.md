@@ -47,7 +47,9 @@ git clone https://github.com/seu-usuario/todo-list-java.git
 mvn clean install
 java -jar target/todo-list-java.jar
 ```
-
+📸 Screenshots
+<img width="381" height="485" alt="image" src="https://github.com/user-attachments/assets/6b21e613-e623-4fb2-8856-9c23e261018c" />
+Interface principal do aplicativo
 
 
 ## 📌 Próximas Melhorias
