@@ -47,13 +47,21 @@ git clone https://github.com/seu-usuario/todo-list-java.git
 mvn clean install
 java -jar target/todo-list-java.jar
 ```
-📸 Screenshots
-<img width="381" height="485" margin=10px alt="image" src="https://github.com/user-attachments/assets/6b21e613-e623-4fb2-8856-9c23e261018c" />
+## 📸 Screenshots
 
-<img width="379" height="486" margin=10px alt="image" src="https://github.com/user-attachments/assets/d8c917e0-c957-4601-b978-a8c3d8112b98" />
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
+<div>
+<img width="100%" alt="Tela Principal - Lista de Tarefas" src="https://github.com/user-attachments/assets/6b21e613-e623-4fb2-8856-9c23e261018c">
+<p align="center"><em>Tela principal com lista de tarefas</em></p>
+</div>
 
-Interface principal do aplicativo
+<div>
+<img width="100%" alt="Tela de Adição de Tarefa" src="https://github.com/user-attachments/assets/d8c917e0-c957-4601-b978-a8c3d8112b98">
+<p align="center"><em>Adicionando nova tarefa</em></p>
+</div>
+
+</div>
 
 
 ## 📌 Próximas Melhorias
